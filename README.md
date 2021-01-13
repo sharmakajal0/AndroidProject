@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 FIRST ANDROID PROJECT
+=======
+#FIRST ANDROID PROJECT
+>>>>>>> de34c968018e5ab67e6ff31da92ccefdc065de75
